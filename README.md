@@ -1,3 +1,7 @@
+Front End: https://app.netlify.com/sites/scintillating-centaur-ae4485/overview
+Back End: https://mern-friends-app-1.herokuapp.com/
+Video tutorial: https://www.youtube.com/playlist?list=PLpPqplz6dKxUYV3x_dqyNuPW0JAut9w3L
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
